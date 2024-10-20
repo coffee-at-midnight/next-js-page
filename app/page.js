@@ -13,6 +13,7 @@ export default function Home() {
           height={38}
           priority
         />
+        <p>Welcome on my first Next.js page.</p>
         <ol>
           <li>
             Get started by editing <code>app/page.js</code>.
